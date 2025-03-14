@@ -1,5 +1,9 @@
 {
 <<<<<<< HEAD
+    "experimentalTernaries": true,
+    "tabWidth": 4
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     "experimentalTernaries": true,
     "tabWidth": 4
@@ -13,4 +17,5 @@
     "experimentalTernaries": true,
     "tabWidth": 4
 >>>>>>> origin/task-components
+>>>>>>> solved-components
 }
