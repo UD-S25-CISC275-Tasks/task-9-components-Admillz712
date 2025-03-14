@@ -4,15 +4,13 @@ import { Button } from "react-bootstrap";
 export function DoubleHalf(): React.JSX.Element {
     const [dhValue, setDhValue] = useState(10);
 
-
-function handleDouble() {
+    function handleDouble() {
         setDhValue((prev) => prev * 2);
     }
 
     function handleHalve() {
         setDhValue((prev) => prev * 0.5);
     }
-
 
     return (
         <div>
